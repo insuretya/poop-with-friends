@@ -114,7 +114,7 @@ Tab:AddToggle({
 })
 
 Tab:AddToggle({
-	Name = "Crash the server (rocket launcher)",
+	Name = "Crash the server (poop launcher)",
 	Default = false,
 	Callback = function(Value)
 	    getgenv().crasher = Value
